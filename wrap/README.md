@@ -39,5 +39,5 @@ We provide several free dataset (that we didn't create) in order to test the pac
 
 ### Authors
 - Myself
-- Maïté Garcia (https://fr.linkedin.com/in/garciamaite)
-- Jean-Luc Yongwe (https://fr.linkedin.com/in/yongwe-jean-luc-a63b82a5, https://github.com/yikkin)
+- Maïté Garcia (https://linkedin.com/in/garciamaite)
+- Jean-Luc Yongwe (https://linkedin.com/in/yongwe-jean-luc-a63b82a5, https://github.com/yikkin)
