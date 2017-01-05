@@ -6,8 +6,10 @@ We implemented several wrapper algorithm in a function, named wrapper.
 - Ascending 
 - Descending
 - Genetic (from package genalg)
+
 planned on update: 
 - Hill-Climbing 
+
 ### Supported statistical methods
 Those methods are included in the wrapper function and can be used very easily. 
 If your data mining algorithm is not here, you can use it by creating your own function of evaluation. 
@@ -18,13 +20,16 @@ For more informations, look at the documentation.
 - SVM                           (svm {e1071})
 - Naive bayes                   (naiveBayes {e1071})
 - Random forest                 (randomForest {randomForest})
+
 no update is planned for now as most of the used methods are represented here.
 ### Validation method  
-- Currently the only method integrated is the basic training / set
+- Currently the only method integrated is the basic training/set
+
 You can use another method with a special evaluation function, but be aware that the wrappers are very heavy, so you may not want to abuse of cross validation and bootstrap, espacially if you have a lot of features.<br />
 Planed:
 - Integration of Cross Validation
 - Integration of Bootstrap
+
 ### Data
 We provide several free dataset (that we didn't create) in order to test the package and play with it.
 - boston
